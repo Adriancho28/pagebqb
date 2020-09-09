@@ -1,0 +1,11 @@
+.wws-popup-container * {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+.wws-popup-container {
+  width: auto;
+  position: fixed;
+  z-index: 9999999;
+}

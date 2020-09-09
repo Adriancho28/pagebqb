@@ -1,0 +1,1068 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: WeCreativez WhatsApp Support\n"
+"POT-Creation-Date: 2019-01-23 23:18+0530\n"
+"PO-Revision-Date: 2019-01-23 23:24+0530\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: nl\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Poedit 2.2\n"
+"X-Poedit-Basepath: ../..\n"
+"X-Poedit-Flags-xgettext: --add-comments=translators:\n"
+"X-Poedit-WPHeader: wordpress-whatsapp-support.php\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;esc_attr__;"
+"esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c;_n_noop:1,2;"
+"_nx_noop:3c,1,2;__ngettext_noop:1,2\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: *.js\n"
+
+#: includes/admin/class-wws-admin-menu.php:32
+#: includes/admin/class-wws-admin-menu.php:33
+#: includes/admin/class-wws-admin-menu.php:51
+#: includes/admin/class-wws-admin-menu.php:52
+msgid "WhatsApp Support"
+msgstr "WhatsApp Support"
+
+#: includes/admin/class-wws-admin-menu.php:42
+#: includes/admin/class-wws-admin-menu.php:43
+#: includes/admin/class-wws-admin-menu.php:104
+#: includes/admin/class-wws-admin-menu.php:105
+msgid "Plugin Support"
+msgstr "Ondersteuning voor plug-ins"
+
+#: includes/admin/class-wws-admin-menu.php:64
+#: includes/admin/class-wws-admin-menu.php:65
+msgid "Analytics"
+msgstr "Analytics"
+
+#: includes/admin/class-wws-admin-menu.php:72
+#: includes/admin/class-wws-admin-menu.php:73
+#: templates/admin/admin-gdpr-page.php:2
+msgid "GDPR Settings"
+msgstr "GDPR-instellingen"
+
+#: includes/admin/class-wws-admin-menu.php:80
+#: includes/admin/class-wws-admin-menu.php:81
+#: includes/admin/class-wws-admin-menu.php:192
+#: templates/admin/admin-product-query-page.php:2
+msgid "Product Query"
+msgstr "Productquery"
+
+#: includes/admin/class-wws-admin-menu.php:88
+#: includes/admin/class-wws-admin-menu.php:89
+msgid "Shortcode Generator"
+msgstr "Shortcode-generator"
+
+#: includes/admin/class-wws-admin-menu.php:96
+#: includes/admin/class-wws-admin-menu.php:97
+#: templates/admin/admin-link-generator-page.php:2
+msgid "Link Generator"
+msgstr "Link Generator"
+
+#: includes/admin/class-wws-admin-menu.php:194
+msgid "WooCommerce not installed or maybe no activated."
+msgstr "WooCommerce niet geïnstalleerd of misschien niet geactiveerd."
+
+#: includes/admin/class-wws-admin-notification.php:32
+msgid "Settings saved."
+msgstr "Instellingen opgeslagen."
+
+#: includes/admin/class-wws-admin-notification.php:38
+msgid "Report shared."
+msgstr "Rapport gedeeld."
+
+#: includes/admin/class-wws-admin-notification.php:44
+msgid "Developer settings saved."
+msgstr "Ontwikkelaarinstellingen opgeslagen."
+
+#: includes/admin/class-wws-admin-notification.php:50
+msgid "GDPR settings saved."
+msgstr "GDPR-instellingen opgeslagen."
+
+#: includes/admin/class-wws-admin-notification.php:69
+#, php-format
+msgid ""
+"Enter your purchase code to get instant support and advance customer "
+"service! %s"
+msgstr ""
+"Voer uw aankoopcode in om direct ondersteuning te krijgen en de "
+"klantenservice te verbeteren! %s"
+
+#: includes/admin/class-wws-admin-notification.php:70
+msgid "Enter here"
+msgstr "Kom hier binnen"
+
+#: includes/admin/class-wws-admin-notification.php:87
+msgid "Leave A Review?"
+msgstr "Laat je mening achter?"
+
+#: includes/admin/class-wws-admin-notification.php:91
+#, php-format
+msgid ""
+"We hope you've enjoyed using %s Would you consider leaving us a review on %s"
+msgstr ""
+"We hopen dat je het leuk vond om %s te gebruiken. Zou je overwegen om een ​​"
+"beoordeling achter te laten op %s"
+
+#: includes/admin/class-wws-admin-notification.php:103
+msgid "Sure! I'd love to!"
+msgstr "Zeker! Ik zou graag!"
+
+#: includes/admin/class-wws-admin-notification.php:108
+msgid "I've already left a review"
+msgstr "Ik heb al een beoordeling achtergelaten"
+
+#: includes/admin/class-wws-admin-notification.php:112
+msgid "Never show again"
+msgstr "Nooit meer laten zien"
+
+#: includes/ajax/ajax-add-multi-account.php:14
+#: includes/ajax/ajax-edit-multi-account.php:20
+msgid "Support Person Contact"
+msgstr "Ondersteuning Persoon Contact"
+
+#: includes/ajax/ajax-add-multi-account.php:19
+#: includes/ajax/ajax-edit-multi-account.php:25
+msgid ""
+"Enter mobile phone number with the international country code, without \"+\" "
+"character. Example:  911234567890 for (+91) 1234567890"
+msgstr ""
+"Voer het mobiele telefoonnummer in met de internationale landcode, zonder "
+"het teken \"+\". Voorbeeld: 911234567890 voor (+91) 1234567890"
+
+#: includes/ajax/ajax-add-multi-account.php:25
+#: includes/ajax/ajax-edit-multi-account.php:31
+#: templates/admin/admin-product-query-page.php:87
+msgid "Support Person Name"
+msgstr "Ondersteuning Persoon Naam"
+
+#: includes/ajax/ajax-add-multi-account.php:30
+#: includes/ajax/ajax-edit-multi-account.php:36
+msgid "Enter support person name."
+msgstr "Voer de naam van de ondersteuningspersoon in."
+
+#: includes/ajax/ajax-add-multi-account.php:36
+#: includes/ajax/ajax-edit-multi-account.php:42
+#: templates/admin/admin-product-query-page.php:99
+msgid "Support Person Title"
+msgstr "Ondersteunende persoon titel"
+
+#: includes/ajax/ajax-add-multi-account.php:41
+#: includes/ajax/ajax-edit-multi-account.php:47
+msgid "Enter support person title/designation."
+msgstr "Voer de titel / aanduiding van de ondersteuningspersoon in."
+
+#: includes/ajax/ajax-add-multi-account.php:48
+#: includes/ajax/ajax-edit-multi-account.php:54
+#: templates/admin/admin-plugin-setting-page.php:242
+#: templates/admin/admin-product-query-page.php:110
+msgid "Support Person Image"
+msgstr "Ondersteun persoon afbeelding"
+
+#: includes/ajax/ajax-add-multi-account.php:54
+#: includes/ajax/ajax-edit-multi-account.php:60
+#: templates/admin/admin-product-query-page.php:111
+msgid "Add support person image"
+msgstr "Voeg de afbeelding van de ondersteuningspersoon toe"
+
+#: includes/ajax/ajax-add-multi-account.php:60
+#: includes/ajax/ajax-edit-multi-account.php:66
+#: templates/admin/admin-link-generator-page.php:25
+msgid "Support Pre Message"
+msgstr "Support Pre Message"
+
+#: includes/ajax/ajax-add-multi-account.php:64
+#: includes/ajax/ajax-edit-multi-account.php:70
+#: templates/admin/admin-plugin-setting-page.php:147
+#, php-format
+msgid "%s to display current page title in chat."
+msgstr "%s om de huidige paginatitel in de chat weer te geven."
+
+#: includes/ajax/ajax-add-multi-account.php:65
+#: includes/ajax/ajax-edit-multi-account.php:71
+#: templates/admin/admin-plugin-setting-page.php:148
+#, php-format
+msgid "%s to display current page URL in chat."
+msgstr "%s om de huidige pagina-URL weer te geven in de chat."
+
+#: includes/ajax/ajax-add-multi-account.php:66
+#: includes/ajax/ajax-edit-multi-account.php:72
+#: templates/admin/admin-plugin-setting-page.php:149
+#, php-format
+msgid "%s to break the line into a new line."
+msgstr "%s om de regel in een nieuwe regel te breken."
+
+#: includes/ajax/ajax-add-multi-account.php:74
+#: includes/ajax/ajax-edit-multi-account.php:80
+#: templates/admin/admin-plugin-setting-page.php:440
+msgid "Schedule"
+msgstr "Planning"
+
+#: includes/ajax/ajax-add-multi-account.php:110
+#: includes/ajax/ajax-edit-multi-account.php:123
+msgid "Schedule by days to show contact person availablity. Time format HH:MM"
+msgstr ""
+"Plan over dagen om de beschikbaarheid van de contactpersoon weer te geven. "
+"Tijdformaat UU:MM"
+
+#: includes/ajax/ajax-add-multi-account.php:119
+msgid "Add"
+msgstr "Toevoegen"
+
+#: includes/ajax/ajax-analytics-deep-report.php:35
+msgid "Country"
+msgstr "Land"
+
+#: includes/ajax/ajax-analytics-deep-report.php:39
+msgid "Region"
+msgstr "Regio"
+
+#: includes/ajax/ajax-analytics-deep-report.php:43
+msgid "City"
+msgstr "Stad"
+
+#: includes/ajax/ajax-analytics-deep-report.php:47
+msgid "ZIP Code"
+msgstr "Postcode"
+
+#: includes/ajax/ajax-analytics-deep-report.php:56
+msgid "Timezone"
+msgstr "Tijdzone"
+
+#: includes/ajax/ajax-analytics-deep-report.php:60
+msgid "Internet Service Provider"
+msgstr "Internetprovider"
+
+#: includes/ajax/ajax-analytics-deep-report.php:64
+msgid "Organization Name"
+msgstr "Organisatie naam"
+
+#: includes/ajax/ajax-edit-multi-account.php:132
+msgid "Save"
+msgstr "Opslaan"
+
+#: includes/classes/class-wws-plugin-activation.php:33
+#: templates/admin/admin-plugin-support-page.php:19
+msgid "Plugin Activated"
+msgstr "Plugin geactiveerd"
+
+#: includes/classes/class-wws-plugin-activation.php:34
+msgid "Goto Plugin Settings"
+msgstr "Ga naar Plugin-instellingen"
+
+#: includes/classes/class-wws-plugin-activation.php:37
+msgid "Invalid Purchase Code"
+msgstr "Ga naar Plugin-instellingen"
+
+#: includes/classes/class-wws-plugin-activation.php:42
+msgid "Server error. Please contact plugin author."
+msgstr "Serverfout. Neem contact op met de auteur van de plug-in."
+
+#: includes/classes/class-wws-visual-composer.php:29
+msgid "WhatsApp Support Button"
+msgstr "WhatsApp-ondersteuningsknop"
+
+#: includes/classes/class-wws-visual-composer.php:32
+msgid "Content"
+msgstr "Inhoud"
+
+#: includes/classes/class-wws-visual-composer.php:39
+#: templates/admin/admin-shortcode-generator-page.php:46
+msgid "Support Number"
+msgstr "Ondersteuningsnummer"
+
+#: includes/classes/class-wws-visual-composer.php:41
+msgid "911234567890"
+msgstr "911234567890"
+
+#: includes/classes/class-wws-visual-composer.php:42
+msgid ""
+"Enter mobile phone number with the international country code, without '+' "
+"character."
+msgstr ""
+"Voer het mobiele telefoonnummer in met de internationale landcode, zonder "
+"het teken '+'."
+
+#: includes/classes/class-wws-visual-composer.php:48
+#: templates/admin/admin-shortcode-generator-page.php:58
+msgid "Button Text"
+msgstr "Knop tekst"
+
+#: includes/classes/class-wws-visual-composer.php:50
+#: templates/admin/admin-shortcode-generator-page.php:201
+msgid "Contact Us"
+msgstr "Neem contact met ons op"
+
+#: includes/classes/class-wws-visual-composer.php:56
+#: templates/admin/admin-product-query-page.php:41
+msgid "Button Color"
+msgstr "Knop kleur"
+
+#: includes/classes/class-wws-visual-composer.php:64
+#: templates/admin/admin-product-query-page.php:52
+#: templates/admin/admin-shortcode-generator-page.php:82
+msgid "Button Text Color"
+msgstr "Knop Tekstkleur"
+
+#: includes/classes/class-wws-visual-composer.php:71
+#: templates/admin/admin-shortcode-generator-page.php:94
+msgid "Button Bold Text"
+msgstr "Knop Vetgedrukte tekst"
+
+#: includes/classes/class-wws-visual-composer.php:74
+#: includes/classes/class-wws-visual-composer.php:108
+#: includes/classes/class-wws-visual-composer.php:120
+#: includes/classes/class-wws-visual-composer.php:130
+#: templates/admin/admin-plugin-setting-page.php:349
+#: templates/admin/admin-plugin-setting-page.php:372
+#: templates/admin/admin-plugin-setting-page.php:394
+#: templates/admin/admin-shortcode-generator-page.php:99
+#: templates/admin/admin-shortcode-generator-page.php:148
+#: templates/admin/admin-shortcode-generator-page.php:164
+#: templates/admin/admin-shortcode-generator-page.php:178
+msgid "No"
+msgstr "Nee"
+
+#: includes/classes/class-wws-visual-composer.php:75
+#: includes/classes/class-wws-visual-composer.php:109
+#: includes/classes/class-wws-visual-composer.php:119
+#: includes/classes/class-wws-visual-composer.php:129
+#: templates/admin/admin-plugin-setting-page.php:348
+#: templates/admin/admin-plugin-setting-page.php:371
+#: templates/admin/admin-plugin-setting-page.php:393
+#: templates/admin/admin-shortcode-generator-page.php:100
+#: templates/admin/admin-shortcode-generator-page.php:149
+#: templates/admin/admin-shortcode-generator-page.php:165
+#: templates/admin/admin-shortcode-generator-page.php:179
+msgid "Yes"
+msgstr "Ja"
+
+#: includes/classes/class-wws-visual-composer.php:81
+#: templates/admin/admin-shortcode-generator-page.php:110
+msgid "Button Font Style"
+msgstr "Knop Fontstijl"
+
+#: includes/classes/class-wws-visual-composer.php:84
+#: templates/admin/admin-shortcode-generator-page.php:115
+msgid "Theme Default"
+msgstr "Thema Standaard"
+
+#: includes/classes/class-wws-visual-composer.php:85
+msgid "Lobster"
+msgstr "Lobster"
+
+#: includes/classes/class-wws-visual-composer.php:86
+msgid "Satisfy"
+msgstr "Satisfy"
+
+#: includes/classes/class-wws-visual-composer.php:87
+msgid "Bree Serif"
+msgstr "Bree Serif"
+
+#: includes/classes/class-wws-visual-composer.php:88
+msgid "Oswald"
+msgstr "Oswald"
+
+#: includes/classes/class-wws-visual-composer.php:89
+msgid "Ubuntu"
+msgstr "Ubuntu"
+
+#: includes/classes/class-wws-visual-composer.php:90
+msgid "Dancing Script"
+msgstr "Dancing Script"
+
+#: includes/classes/class-wws-visual-composer.php:97
+#: templates/admin/admin-shortcode-generator-page.php:131
+msgid "Pre Populate Message"
+msgstr "Pre-bevolkingsbericht"
+
+#: includes/classes/class-wws-visual-composer.php:99
+msgid "Hello..."
+msgstr "Hallo..."
+
+#: includes/classes/class-wws-visual-composer.php:100
+#: templates/admin/admin-shortcode-generator-page.php:136
+msgid "This is what you will receive when user sent message first time."
+msgstr ""
+"Dit is wat u ontvangt als de gebruiker de eerste keer een bericht verzendt."
+
+#: includes/classes/class-wws-visual-composer.php:105
+#: templates/admin/admin-shortcode-generator-page.php:143
+msgid "Full Width Button"
+msgstr "Knop voor volledige breedte"
+
+#: includes/classes/class-wws-visual-composer.php:111
+#: templates/admin/admin-shortcode-generator-page.php:152
+msgid "This will expand button to full width."
+msgstr "Hiermee wordt de knop uitgerekt tot de volledige breedte."
+
+#: includes/classes/class-wws-visual-composer.php:116
+#: templates/admin/admin-plugin-setting-page.php:366
+#: templates/admin/admin-shortcode-generator-page.php:159
+msgid "Display On Mobile"
+msgstr "Weergeven op mobiel"
+
+#: includes/classes/class-wws-visual-composer.php:126
+#: templates/admin/admin-plugin-setting-page.php:343
+#: templates/admin/admin-shortcode-generator-page.php:173
+msgid "Display On Desktop"
+msgstr "Weergave op het bureaublad"
+
+#: templates/admin/admin-activate-plugin-page.php:5
+msgid "Enter your Envato purchase code to activate"
+msgstr "Voer uw Envato-aankoopcode in om deze te activeren"
+
+#: templates/admin/admin-activate-plugin-page.php:10
+msgid "Enter Purchase Code"
+msgstr "Voer de aankoopcode in"
+
+#: templates/admin/admin-activate-plugin-page.php:11
+msgid "Activate"
+msgstr "Activeren"
+
+#: templates/admin/admin-activate-plugin-page.php:14
+msgid "Where is my purchase code?"
+msgstr "Waar is mijn aankoopcode?"
+
+#: templates/admin/admin-analytics-page.php:3
+msgid "WeCreativez WhatsApp Support - Analytics"
+msgstr "WeCreativez WhatsApp-ondersteuning - Analytics"
+
+#: templates/admin/admin-analytics-page.php:7
+msgid "Total Clicks Analytics"
+msgstr "Total Clicks Analytics"
+
+#: templates/admin/admin-analytics-page.php:13
+msgid "Total Clicks"
+msgstr "Totaal aantal klikken"
+
+#: templates/admin/admin-analytics-page.php:19
+msgid "Total Clicks By Mobile"
+msgstr "Totaal aantal klikken op mobiel"
+
+#: templates/admin/admin-analytics-page.php:25
+msgid "Total Clicks By Desktop/ Laptop"
+msgstr "Totaal aantal klikken op desktop / laptop"
+
+#: templates/admin/admin-analytics-page.php:32
+msgid "Complete Analytics"
+msgstr "Voltooi Analytics"
+
+#: templates/admin/admin-analytics-page.php:38
+#: templates/admin/admin-analytics-page.php:50
+msgid "Visitors IP"
+msgstr "Bezoekers IP"
+
+#: templates/admin/admin-analytics-page.php:39
+#: templates/admin/admin-analytics-page.php:51
+msgid "Message"
+msgstr "Bericht"
+
+#: templates/admin/admin-analytics-page.php:40
+#: templates/admin/admin-analytics-page.php:52
+msgid "Referral"
+msgstr "Doorverwijzing"
+
+#: templates/admin/admin-analytics-page.php:41
+#: templates/admin/admin-analytics-page.php:53
+msgid "Device Type"
+msgstr "Soort apparaat"
+
+#: templates/admin/admin-analytics-page.php:42
+#: templates/admin/admin-analytics-page.php:54
+msgid "OS"
+msgstr "OS"
+
+#: templates/admin/admin-analytics-page.php:43
+#: templates/admin/admin-analytics-page.php:55
+msgid "Browser"
+msgstr "Browser"
+
+#: templates/admin/admin-analytics-page.php:44
+#: templates/admin/admin-analytics-page.php:56
+msgid "Date"
+msgstr "Datum"
+
+#: templates/admin/admin-analytics-page.php:77
+msgid "Click on IP address to know more about the visitors"
+msgstr "Klik op IP-adres om meer te weten te komen over de bezoekers"
+
+#: templates/admin/admin-analytics-page.php:79
+msgid "Are you sure?"
+msgstr "Weet je het zeker?"
+
+#: templates/admin/admin-analytics-page.php:79
+msgid "Delete Complete Analytics"
+msgstr "Volledige analyse verwijderen"
+
+#: templates/admin/admin-gdpr-page.php:14
+msgid "Enable GDPR"
+msgstr "Schakel GDPR in"
+
+#: templates/admin/admin-gdpr-page.php:15
+msgid "Enable/ Disable GDPR compliant."
+msgstr "GDPR-compliant in / uitschakelen."
+
+#: templates/admin/admin-gdpr-page.php:24
+msgid "GDPR Message"
+msgstr "GDPR-bericht"
+
+#: templates/admin/admin-gdpr-page.php:28
+#, php-format
+msgid "Use shortcode %s to add privacy page link."
+msgstr ""
+"Gebruik shortcode %s om de koppeling naar de privacypagina toe te voegen."
+
+#: templates/admin/admin-gdpr-page.php:34
+msgid "Privacy page"
+msgstr "Privacy pagina"
+
+#: templates/admin/admin-gdpr-page.php:35
+msgid "Select your privacy page."
+msgstr "Selecteer uw privacypagina."
+
+#: templates/admin/admin-link-generator-page.php:15
+#: templates/admin/admin-plugin-setting-page.php:231
+#: templates/admin/admin-product-query-page.php:75
+msgid "Support Contact Number"
+msgstr "Contactnummer voor ondersteuning"
+
+#: templates/admin/admin-link-generator-page.php:16
+#: templates/admin/admin-plugin-setting-page.php:232
+#: templates/admin/admin-product-query-page.php:76
+msgid ""
+"Enter mobile phone number with the international country code, without + "
+"character. Example:  911234567890 for (+91) 1234567890"
+msgstr ""
+"Voer het mobiele telefoonnummer in met de internationale landcode, zonder + "
+"teken. Voorbeeld: 911234567890 voor (+91) 1234567890"
+
+#: templates/admin/admin-link-generator-page.php:26
+msgid "Enter a message that you will receive when someone clicks on the link."
+msgstr "Voer een bericht in dat u ontvangt wanneer iemand op de link klikt."
+
+#: templates/admin/admin-link-generator-page.php:36
+msgid "Generated Link"
+msgstr "Gegenereerde link"
+
+#: templates/admin/admin-link-generator-page.php:40
+msgid "Copy and share the link"
+msgstr "Kopieer en deel de link"
+
+#. Plugin Name of the plugin/theme
+#: templates/admin/admin-plugin-setting-page.php:4
+msgid "WeCreativez WhatsApp Support"
+msgstr "WeCreativez WhatsApp-ondersteuning"
+
+#: templates/admin/admin-plugin-setting-page.php:12
+msgid "Designing"
+msgstr "Designing"
+
+#: templates/admin/admin-plugin-setting-page.php:20
+msgid "Select Layout"
+msgstr "Selecteer Layout"
+
+#: templates/admin/admin-plugin-setting-page.php:21
+msgid "Select your layout."
+msgstr "Selecteer uw lay-out."
+
+#: templates/admin/admin-plugin-setting-page.php:61
+msgid "Layout Background Color"
+msgstr "Layout achtergrondkleur"
+
+#: templates/admin/admin-plugin-setting-page.php:62
+msgid "Set popup layout background color."
+msgstr "Stel de achtergrondkleur van de popup-opmaak in."
+
+#: templates/admin/admin-plugin-setting-page.php:73
+msgid "Layout Text Color"
+msgstr "Layout Tekstkleur"
+
+#: templates/admin/admin-plugin-setting-page.php:74
+msgid "Set popup layout text color."
+msgstr "Stel de tekstkleur in voor de opmaak van de pagina."
+
+#: templates/admin/admin-plugin-setting-page.php:84
+msgid "Enable Layout Gradient"
+msgstr "Lay-outverloop inschakelen"
+
+#: templates/admin/admin-plugin-setting-page.php:85
+msgid "Enable/ Disable popup background gradient."
+msgstr "Pop-upachtergrondverloop in- / uitschakelen."
+
+#: templates/admin/admin-plugin-setting-page.php:98
+msgid "WhatsApp Support Text Settings"
+msgstr "WhatsApp ondersteuningstekstinstellingen"
+
+#: templates/admin/admin-plugin-setting-page.php:106
+#: templates/admin/admin-plugin-setting-page.php:107
+msgid "About Support"
+msgstr "Over ondersteuning"
+
+#: templates/admin/admin-plugin-setting-page.php:118
+msgid "Welcome Message"
+msgstr "Welkoms bericht"
+
+#: templates/admin/admin-plugin-setting-page.php:119
+msgid "Welcome message from Support. Sometime this can be use as pre message."
+msgstr ""
+"Welkomstbericht van Ondersteuning. Soms kan dit als voorboodschap worden "
+"gebruikt."
+
+#: templates/admin/admin-plugin-setting-page.php:130
+msgid "Input Placeholder Text"
+msgstr "Plaatsaanduidingstekst invoeren"
+
+#: templates/admin/admin-plugin-setting-page.php:131
+msgid "Input placeholder"
+msgstr "Plaatsaanduiding voor invoer"
+
+#: templates/admin/admin-plugin-setting-page.php:142
+msgid "Predefined Text"
+msgstr "Voorgedefinieerde tekst"
+
+#: templates/admin/admin-plugin-setting-page.php:143
+msgid ""
+"This will automatically append the following options along with user text."
+msgstr ""
+"Dit voegt automatisch de volgende opties samen met gebruikerstekst toe."
+
+#: templates/admin/admin-plugin-setting-page.php:162
+msgid "WhatsApp Support Trigger Button"
+msgstr "WhatsApp Support Trigger Button"
+
+#: templates/admin/admin-plugin-setting-page.php:170
+msgid "Trigger Button Text"
+msgstr "Tekst triggeren"
+
+#: templates/admin/admin-plugin-setting-page.php:171
+msgid "If you leave it blank than, trigger button shown as only icon."
+msgstr ""
+"Als u het leeg laat dan, wordt de triggerknop weergegeven als enige "
+"pictogram."
+
+#: templates/admin/admin-plugin-setting-page.php:181
+msgid "Show Only Icon on Mobile"
+msgstr "Toon alleen pictogram op mobiel"
+
+#: templates/admin/admin-plugin-setting-page.php:182
+msgid ""
+"Enable this option if you what to display an icon instead of text button on "
+"mobile."
+msgstr ""
+"Schakel deze optie in als u wilt wat een pictogram in plaats van de "
+"tekstknop op mobiel weergeeft."
+
+#: templates/admin/admin-plugin-setting-page.php:198
+msgid "WhatsApp Group Settings"
+msgstr "WhatsApp Group-instellingen"
+
+#: templates/admin/admin-plugin-setting-page.php:206
+msgid "Support Group ID"
+msgstr "Ondersteuning Groeps-ID"
+
+#: templates/admin/admin-plugin-setting-page.php:207
+#: templates/admin/admin-shortcode-generator-page.php:37
+msgid "Enter your WhatsApp group chat ID"
+msgstr "Voer je WhatsApp group chat ID in"
+
+#: templates/admin/admin-plugin-setting-page.php:223
+msgid "WhatsApp Single Person Support"
+msgstr "WhatsApp Single Person Support"
+
+#: templates/admin/admin-plugin-setting-page.php:243
+msgid "Add Support person image"
+msgstr "Afbeelding ondersteuningspersoon toevoegen"
+
+#: templates/admin/admin-plugin-setting-page.php:264
+msgid "WhatsApp Multi Account Settings"
+msgstr "WhatsApp Multi Account Instellingen"
+
+#: templates/admin/admin-plugin-setting-page.php:279
+msgid "Edit"
+msgstr "Bewerk"
+
+#: templates/admin/admin-plugin-setting-page.php:279
+msgid "Delete"
+msgstr "Verwijder"
+
+#: templates/admin/admin-plugin-setting-page.php:291
+#: templates/admin/admin-plugin-setting-page.php:294
+msgid "Add Support Person"
+msgstr "Support-persoon toevoegen"
+
+#: templates/admin/admin-plugin-setting-page.php:310
+msgid "Basic Settings"
+msgstr "Basis instellingen"
+
+#: templates/admin/admin-plugin-setting-page.php:319
+msgid "Scroll Length"
+msgstr "Scrolllengte"
+
+#: templates/admin/admin-plugin-setting-page.php:320
+msgid ""
+"Display button when scroll length matched with above value. Leave blank to "
+"display everytime."
+msgstr ""
+"Weergaveknop wanneer de schuiflengte overeenkomt met de bovenstaande waarde. "
+"Laat blanco om elke keer weer te geven."
+
+#: templates/admin/admin-plugin-setting-page.php:330
+msgid "Enable RTL"
+msgstr "Schakel RTL in"
+
+#: templates/admin/admin-plugin-setting-page.php:331
+msgid ""
+"You can enable RTL ( Right to Left ) if your website has language like "
+"Arabic, Persian and Hebrew."
+msgstr ""
+"U kunt RTL (Right to Left) inschakelen als uw website taal heeft zoals "
+"Arabisch, Perzisch en Hebreeuws."
+
+#: templates/admin/admin-plugin-setting-page.php:344
+msgid "Display on desktop/laptop"
+msgstr "Weergave op desktop / laptop"
+
+#: templates/admin/admin-plugin-setting-page.php:352
+#: templates/admin/admin-plugin-setting-page.php:375
+msgid "Top Left"
+msgstr "Linksboven"
+
+#: templates/admin/admin-plugin-setting-page.php:353
+#: templates/admin/admin-plugin-setting-page.php:376
+msgid "Top Center"
+msgstr "Midden boven"
+
+#: templates/admin/admin-plugin-setting-page.php:354
+#: templates/admin/admin-plugin-setting-page.php:377
+msgid "Top Right"
+msgstr "Rechtsboven"
+
+#: templates/admin/admin-plugin-setting-page.php:355
+#: templates/admin/admin-plugin-setting-page.php:378
+msgid "Bottom Left"
+msgstr "Linksonder"
+
+#: templates/admin/admin-plugin-setting-page.php:356
+#: templates/admin/admin-plugin-setting-page.php:379
+msgid "Bottom Center"
+msgstr "Middenonder"
+
+#: templates/admin/admin-plugin-setting-page.php:357
+#: templates/admin/admin-plugin-setting-page.php:380
+msgid "Bottom Right"
+msgstr "Rechts onder"
+
+#: templates/admin/admin-plugin-setting-page.php:367
+msgid "Display on mobile devices"
+msgstr "Weergeven op mobiele apparaten"
+
+#: templates/admin/admin-plugin-setting-page.php:388
+msgid "Auto Popup"
+msgstr "Auto Pop-up"
+
+#: templates/admin/admin-plugin-setting-page.php:389
+msgid "Enter the popup auto display time in seconds"
+msgstr "Voer de pop-upautoweergavetijd in seconden in"
+
+#: templates/admin/admin-plugin-setting-page.php:403
+msgid "Filter By Page"
+msgstr "Filteren op pagina"
+
+#: templates/admin/admin-plugin-setting-page.php:407
+msgid "Everwhere"
+msgstr "Overal"
+
+#: templates/admin/admin-plugin-setting-page.php:410
+msgid "Front Page"
+msgstr "Voorpagina"
+
+#: templates/admin/admin-plugin-setting-page.php:412
+msgid "Include popup on Pages"
+msgstr "Voeg een pop-up toe aan pagina's"
+
+#: templates/admin/admin-plugin-setting-page.php:421
+msgid "Select pages, where you want to add WhatsApp Support."
+msgstr "Selecteer pagina's waar u de WhatsApp-ondersteuning wilt toevoegen."
+
+#: templates/admin/admin-plugin-setting-page.php:423
+msgid "Exclude popup on Pages"
+msgstr "Sluit pop-up op pagina's uit"
+
+#: templates/admin/admin-plugin-setting-page.php:432
+msgid "Select pages, where you not want to add WhatsApp Support."
+msgstr "Selecteer pagina's waar u WhatsApp-ondersteuning niet wilt toevoegen."
+
+#: templates/admin/admin-plugin-setting-page.php:446
+msgid "Monday"
+msgstr "Maandag"
+
+#: templates/admin/admin-plugin-setting-page.php:452
+msgid "Tuesday"
+msgstr "Dinsdag"
+
+#: templates/admin/admin-plugin-setting-page.php:458
+msgid "Wednesday"
+msgstr "Woensdag"
+
+#: templates/admin/admin-plugin-setting-page.php:464
+msgid "Thursday"
+msgstr "Donderdag"
+
+#: templates/admin/admin-plugin-setting-page.php:470
+msgid "Friday"
+msgstr "Vrijdag"
+
+#: templates/admin/admin-plugin-setting-page.php:476
+msgid "Saturday"
+msgstr "Zaterdag"
+
+#: templates/admin/admin-plugin-setting-page.php:482
+msgid "Sunday"
+msgstr "Sondag"
+
+#: templates/admin/admin-plugin-setting-page.php:488
+msgid "Schedule by days to show WhatsApp Support Popup. Time format HH:MM:SS"
+msgstr "Plan per dag om WhatsApp Support Popup te tonen. Tijdformaat UU:MM:SS"
+
+#: templates/admin/admin-plugin-setting-page.php:491
+#, php-format
+msgid "Your selected time zone is %s"
+msgstr "Uw geselecteerde tijdzone is %s"
+
+#: templates/admin/admin-plugin-setting-page.php:501
+msgid "Custom\tCSS"
+msgstr "Custom CSS"
+
+#: templates/admin/admin-plugin-setting-page.php:502
+msgid "Add your custom CSS here"
+msgstr "Voeg hier uw aangepaste CSS toe"
+
+#: templates/admin/admin-plugin-setting-page.php:516
+msgid "Save Changes"
+msgstr "Wijzigingen opslaan"
+
+#: templates/admin/admin-plugin-support-page.php:3
+msgid "WeCreativez WhatsApp Support - Support"
+msgstr "WeCreativez WhatsApp-ondersteuning - Ondersteuning"
+
+#: templates/admin/admin-plugin-support-page.php:11
+msgid "Plugin Registration"
+msgstr "Plugin registratie"
+
+#: templates/admin/admin-plugin-support-page.php:22
+msgid "Plugin Not Activated"
+msgstr "Plugin niet geactiveerd"
+
+#: templates/admin/admin-plugin-support-page.php:49
+msgid "This is the address where we will contact you."
+msgstr "Dit is het adres waar we contact met u zullen opnemen."
+
+#: templates/admin/admin-plugin-support-page.php:96
+msgid "Enable Developer Mode"
+msgstr "Schakel ontwikkelaarsmodus in"
+
+#: templates/admin/admin-plugin-support-page.php:97
+msgid "Please do not enable until recommended."
+msgstr "Activeer pas als aanbevolen is."
+
+#: templates/admin/admin-plugin-support-page.php:102
+msgid "Enable"
+msgstr "In staat stellen"
+
+#: templates/admin/admin-plugin-support-page.php:120
+msgid "Enable Debugging"
+msgstr "Schakel Debugging in"
+
+#: templates/admin/admin-plugin-support-page.php:129
+msgid "HTML in"
+msgstr "HTML in"
+
+#: templates/admin/admin-plugin-support-page.php:141
+msgid "Fix Widget Shortcode"
+msgstr "Widget Shortcode repareren"
+
+#: templates/admin/admin-plugin-support-page.php:150
+msgid "Disable Auto Update"
+msgstr "Schakel automatische update uit"
+
+#: templates/admin/admin-product-query-page.php:14
+msgid "Product Support Button"
+msgstr "Productonderhoudsknop"
+
+#: templates/admin/admin-product-query-page.php:15
+msgid ""
+"Enable / Disable product support button on WooCommerce single product page."
+msgstr ""
+"Schakel de knop voor productondersteuning in of uit op de enkele "
+"productpagina van WooCommerce."
+
+#: templates/admin/admin-product-query-page.php:26
+msgid "Button Location"
+msgstr "Knop Locatie"
+
+#: templates/admin/admin-product-query-page.php:27
+msgid "Display product share button on mobile."
+msgstr "Productshoofdknop weergeven op mobiel."
+
+#: templates/admin/admin-product-query-page.php:31
+msgid "After Short Description"
+msgstr "Na korte beschrijving"
+
+#: templates/admin/admin-product-query-page.php:32
+msgid "After Add to Cart Button"
+msgstr "Na de knop Toevoegen aan winkelmandje"
+
+#: templates/admin/admin-product-query-page.php:42
+msgid "Change button background color."
+msgstr "Verander de achtergrondkleur van de knop."
+
+#: templates/admin/admin-product-query-page.php:53
+msgid "Change button text color."
+msgstr "Wijzig de tekstkleur van de knop."
+
+#: templates/admin/admin-product-query-page.php:63
+msgid "Button Label"
+msgstr "Knoplabel"
+
+#: templates/admin/admin-product-query-page.php:64
+msgid "Enter button label."
+msgstr "Voer het label van de knop in."
+
+#: templates/admin/admin-product-query-page.php:88
+msgid "Enter the name of support person."
+msgstr "Voer de naam van de ondersteuningspersoon in."
+
+#: templates/admin/admin-product-query-page.php:100
+msgid "Enter the title / designation of support person."
+msgstr "Voer de titel / aanduiding van de ondersteuningspersoon in."
+
+#: templates/admin/admin-product-query-page.php:122
+msgid "Support Message"
+msgstr "Ondersteuningsbericht"
+
+#: templates/admin/admin-product-query-page.php:123
+msgid "Enter the pre populate support message here."
+msgstr "Voer hier het ondersteuningsbericht voor ondersteuning in."
+
+#: templates/admin/admin-product-query-page.php:127
+#, php-format
+msgid "Use %s shortcode for product title and %s for product URL"
+msgstr "Gebruik %s shortcode voor producttitel en %s voor product-URL"
+
+#: templates/admin/admin-product-query-page.php:143
+msgid "Exclude Product Query Button"
+msgstr "Sluit knop Productquery uit"
+
+#: templates/admin/admin-product-query-page.php:144
+msgid "You can exclude or turn off WhatsApp product query button by products."
+msgstr ""
+"U kunt de WhatsApp-knop voor productvragen op producten uitsluiten of "
+"uitschakelen."
+
+#: templates/admin/admin-product-query-page.php:147
+msgid "Exclude by products"
+msgstr "Uitsluiten op producten"
+
+#: templates/admin/admin-product-query-page.php:162
+msgid ""
+"You can exclude or turn off WhatsApp product query button by categories."
+msgstr ""
+"U kunt de WhatsApp-knop voor productvragen uitsluiten of uitschakelen op "
+"basis van categorieën."
+
+#: templates/admin/admin-product-query-page.php:165
+msgid "Exclude by categories"
+msgstr "Uitsluiten op categorieën"
+
+#: templates/admin/admin-product-query-page.php:182
+msgid "Save Product Support"
+msgstr "Productondersteuning opslaan"
+
+#: templates/admin/admin-shortcode-generator-page.php:3
+msgid "WeCreativez WhatsApp Support - Shortcode Generator"
+msgstr "WeCreativez WhatsApp-ondersteuning - Shortcode-generator"
+
+#: templates/admin/admin-shortcode-generator-page.php:17
+msgid "Button Type"
+msgstr "Knop Type"
+
+#: templates/admin/admin-shortcode-generator-page.php:22
+msgid "Support Button"
+msgstr "Ondersteunende knop"
+
+#: templates/admin/admin-shortcode-generator-page.php:23
+msgid "Group Invitation Button"
+msgstr "Groep uitnodigingsknop"
+
+#: templates/admin/admin-shortcode-generator-page.php:32
+msgid "Group Chat ID"
+msgstr "Groepchat-ID"
+
+#: templates/admin/admin-shortcode-generator-page.php:51
+msgid ""
+"Enter mobile phone number with the international country code, without \"+\" "
+"character"
+msgstr ""
+"Voer het mobiele telefoonnummer in met de internationale landcode, zonder "
+"het teken \"+\""
+
+#: templates/admin/admin-shortcode-generator-page.php:70
+msgid "Button Background Color"
+msgstr "Knop achtergrondkleur"
+
+#: templates/admin/admin-shortcode-generator-page.php:213
+msgid "Shortcode"
+msgstr "Korte code"
+
+#: templates/admin/admin-shortcode-generator-page.php:218
+msgid "Copy shortcode and paste wherever you want. Have fun! :)"
+msgstr "Kopieer shortcode en plak waar je maar wilt. Veel plezier! :)"
+
+#: templates/admin/admin-shortcode-generator-page.php:230
+msgid "HTML Code"
+msgstr "HTML Code"
+
+#: templates/admin/admin-shortcode-generator-page.php:235
+msgid "Copy HTML and paste wherever you want. Have fun! :)"
+msgstr "Kopieer HTML en plak waar je maar wilt. Veel plezier! :)"
+
+#: templates/public/template-6.php:86
+msgid "Available"
+msgstr "Beschikbaar"
+
+#: templates/public/template-6.php:106
+msgid "Away"
+msgstr "Weg"
+
+#. Plugin URI of the plugin/theme
+msgid "http://wecreativez.com/"
+msgstr "http://wecreativez.com/"
+
+#. Description of the plugin/theme
+msgid ""
+"WordPress WhatsApp Support plugin provides better and easy way to "
+"communicate visitors and customers directly to your support person."
+msgstr ""
+"WordPress WhatsApp Support-plug-in biedt een betere en gemakkelijke manier "
+"om bezoekers en klanten rechtstreeks te communiceren met uw "
+"ondersteuningsmedewerker."
+
+#. Author of the plugin/theme
+msgid "Sonu Kaushal"
+msgstr "Sonu Kaushal"
+
+#. Author URI of the plugin/theme
+msgid "http://sonukaushal.com/"
+msgstr "http://sonukaushal.com/"
+
+#~ msgid "WordPress"
+#~ msgstr "WordPress"
+
+#~ msgid "WooCommerce"
+#~ msgstr "WooCommerce"

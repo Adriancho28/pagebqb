@@ -1,0 +1,292 @@
+#sk-wws__admin-form .sk-wws-admin-label > .sk-wws-admin-radio { /* HIDE RADIO */
+  visibility: hidden; /* Makes input not-clickable */
+  position: absolute; /* Remove input from document flow */
+}
+#sk-wws__admin-form .sk-wws-admin-label > .sk-wws-admin-radio + .sk-wws-admin-radio-image { /* IMAGE STYLES */
+  cursor:pointer;
+  border:2px solid transparent;
+  -webkit-filter: drop-shadow( 0 0 5px rgba(0,0,0,.1));
+  -moz-filter: drop-shadow( 0 0 5px rgba(0,0,0,.1));
+  -o-filter: drop-shadow( 0 0 5px rgba(0,0,0,.1));
+  -ms-filter: drop-shadow( 0 0 5px rgba(0,0,0,.1));	
+  filter: drop-shadow( 0 0 5px rgba(0,0,0,.1));
+}
+#sk-wws__admin-form .sk-wws-admin-label > .sk-wws-admin-radio:checked + .sk-wws-admin-radio-image { /* (RADIO CHECKED) IMAGE STYLES */
+  border:2px solid #22C15E;
+}
+#sk-wws__schedule-table tr td {
+	padding: 6px 10px;
+}
+#sk-wws__admin-shortcode-generator table tr th {
+	padding: 15px 0;
+	text-align:  left;
+}
+#sk-wws__admin-shortcode-generator table tr td {
+	padding: 0 15px;
+}
+#sk-wws__scg-support-button {
+	color: #fff; 
+	background-color: #22c15e; 
+	border: none; 
+	border-radius: 6px;
+	padding: 5px 10px;
+	cursor: pointer;
+	font-size: 16px;
+	position: absolute;
+	top: 50%;
+	left: 50%;
+	transform: translate(-50%, -50%);
+}
+#sk-wws__scg-support-button:hover {
+	box-shadow: 0 0 5px rgba(0, 0, 0, .2)
+}
+#sk-wws__scg-support-button img {
+	vertical-align: middle;
+	padding-right: 5px;
+}
+.sk-wws__admin-col-2 {
+	display: inline-block; 
+	width: 49%; 
+	vertical-align: middle;
+}
+#wws-admin__custom-css {
+	height: 195px;
+	white-space: pre;
+	font-family: Menlo, Monaco, monospace;
+	background-color: #333;
+	width: 518px;
+	max-width: 98%;
+	color: #fff;
+	padding: 10px;
+	line-height: 16px;
+	font-size: 12px;
+}
+#sk-wws-admin-developer-box {
+	display: none;
+	border: 1px solid #ccc;
+  border-radius: 6px;
+  padding: 15px;
+  background: #fff;
+}
+#sk-wws__scg-button-icon {
+	width: 20px;
+	vertical-align: middle;
+}
+#sk-wws__scg-button-icon span {
+	vertical-align: middle;
+}
+.sk-wws__scg-group-chat-id-row {
+	display: none;
+}
+#wwcAdminSupportGroupID {
+	display: none;
+}
+
+
+.wws-inline-ul {
+	list-style: none;
+}
+.wws-inline-ul li {
+	display: inline-block;
+	padding-right: 28px;
+}
+
+
+.wws-admin-icon {
+	color: #ffb900;
+	text-shadow: 0 0 25px rgba(255, 185, 0, 0.5);
+}
+
+
+
+/** Analytics page CSS **/
+.wws-admin-total-clicks-container {
+	margin: 26px 0;
+	text-align: center;
+}
+.wws-admin-total-clicks__col {
+	width: 250px;
+	padding: 10px;
+	background-color: #fff;
+	display: inline-block;
+	box-shadow: 0px 3px 2px 1px #d8d8d8;
+	margin-bottom: 16px;
+	text-align: center;
+}
+.wws-admin-total-clicks__count {
+	font-size: 24px;
+	color: #444;
+	padding-top: 10px;
+}
+.wws-admin-total-clicks__title {
+	padding: 10px;
+	color: #888;
+	font-weight: 500;
+}
+
+
+.wws-admin-recent-analytics {
+}
+.wws-admin-recent-analytics__col {
+	background-color: #fff;
+	padding: 10px;
+	box-shadow: 0px 3px 2px 1px #d8d8d8;
+	margin-bottom: 16px;
+}
+.wws-admin-recent-analytics__ul {
+	list-style-type: decimal;
+	margin-left: 25px;
+}
+
+.wws-admin-complete-analytics {
+	background-color: #fff;
+	padding: 10px;
+	box-shadow: 0px 3px 2px 1px #d8d8d8;
+}
+
+
+.wws-admin-datatable {
+	padding: 16px 0;
+}
+
+.wws-admin-datatable thead,
+.wws-admin-datatable tfoot {
+	background: #fbfbfb;
+}
+
+.wws-admin-datatable thead tr th,
+.wws-admin-datatable tfoot tr th,
+.wws-admin-datatable tbody tr td {
+	text-align: left;
+}
+
+
+
+/* Admin link generator */
+#wws-admin-link-generater-link-tr { display: none; }
+
+
+/* Add tippy tooltip in admin */
+.form-table th {
+	padding: 20px 40px 20px 0 !important;
+}
+.form-table th .wws-admin-tooltip {
+    float: right;
+    margin-right: -40px;
+    color: #444;
+    vertical-align: middle;
+}
+
+
+/* Plugin activation page css */
+.wws-spinner {
+  width: 40px;
+  height: 40px;
+
+  position: relative;
+  margin: 100px auto;
+}
+
+.double-bounce1, .double-bounce2 {
+  width: 100%;
+  height: 100%;
+  border-radius: 50%;
+  background-color: #22C15E;
+  opacity: 0.6;
+  position: absolute;
+  top: 0;
+  left: 0;
+  
+  -webkit-animation: sk-bounce 2.0s infinite ease-in-out;
+  animation: sk-bounce 2.0s infinite ease-in-out;
+}
+
+.double-bounce2 {
+  -webkit-animation-delay: -1.0s;
+  animation-delay: -1.0s;
+}
+
+@-webkit-keyframes sk-bounce {
+  0%, 100% { -webkit-transform: scale(0.0) }
+  50% { -webkit-transform: scale(1.0) }
+}
+
+@keyframes sk-bounce {
+  0%, 100% { 
+    transform: scale(0.0);
+    -webkit-transform: scale(0.0);
+  } 50% { 
+    transform: scale(1.0);
+    -webkit-transform: scale(1.0);
+  }
+}
+#wws-plugin-activation * {
+	box-sizing: border-box;	
+	font-family: "Segoe UI", Frutiger, "Frutiger Linotype", "Dejavu Sans", "Helvetica Neue", Arial, sans-serif;
+}
+#wws-plugin-activation {
+	background: #fff;
+	padding: 16% 0 20% 0;
+	height: 100%;
+}
+
+#wws-plugin-activation .wrapper {
+	width: 500px;
+	max-width: 98%;
+	margin: 0 auto;
+	text-align: center;
+}
+
+#wws-plugin-activation a {
+	color: #22C15E;
+	text-decoration: underline;
+}
+
+#wws-plugin-activation h3,
+#wws-plugin-activation h4 {
+	margin: 18px;
+	font-size: 24px;
+}
+
+#wws-plugin-activation h3 { 
+	font-weight: 300;
+}
+
+#wws-plugin-activation h4 { 
+	font-weight: bold;
+}
+
+#wws-plugin-activation form {
+	margin: 30px 0 20px 0;
+}
+
+#wws-plugin-activation input[type="text"] {
+	border: 1px solid #aaa;
+	border-radius: 6px 0 0 6px;
+	background: #fff;
+	color: #333;
+	padding: 10px;
+	width: 70%;
+}
+#wws-plugin-activation input[type="submit"] {
+	border: 1px solid #22c15e;
+	border-radius: 0 6px 6px 0;
+	background: #22C15E;
+	color: #fff;
+	padding: 10px;
+	width: 25%;
+}
+#wws-plugin-activation #message {
+	margin-top: 20px;
+	font-size: 19px;
+	font-weight: 300;
+  padding: 20px;
+}
+
+#wws-plugin-activation #message > div {
+	margin: 10px;
+}
+
+#wws-plugin-activation .loader {
+	display: none;
+}

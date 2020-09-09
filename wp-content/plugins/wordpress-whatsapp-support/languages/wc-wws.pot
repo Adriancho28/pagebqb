@@ -1,0 +1,1026 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"Project-Id-Version: WeCreativez WhatsApp Support\n"
+"POT-Creation-Date: 2019-01-23 23:18+0530\n"
+"PO-Revision-Date: 2019-01-23 23:17+0530\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.2\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-Flags-xgettext: --add-comments=translators:\n"
+"X-Poedit-WPHeader: wordpress-whatsapp-support.php\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;esc_attr__;"
+"esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c;_n_noop:1,2;"
+"_nx_noop:3c,1,2;__ngettext_noop:1,2\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: *.js\n"
+
+#: includes/admin/class-wws-admin-menu.php:32
+#: includes/admin/class-wws-admin-menu.php:33
+#: includes/admin/class-wws-admin-menu.php:51
+#: includes/admin/class-wws-admin-menu.php:52
+msgid "WhatsApp Support"
+msgstr ""
+
+#: includes/admin/class-wws-admin-menu.php:42
+#: includes/admin/class-wws-admin-menu.php:43
+#: includes/admin/class-wws-admin-menu.php:104
+#: includes/admin/class-wws-admin-menu.php:105
+msgid "Plugin Support"
+msgstr ""
+
+#: includes/admin/class-wws-admin-menu.php:64
+#: includes/admin/class-wws-admin-menu.php:65
+msgid "Analytics"
+msgstr ""
+
+#: includes/admin/class-wws-admin-menu.php:72
+#: includes/admin/class-wws-admin-menu.php:73
+#: templates/admin/admin-gdpr-page.php:2
+msgid "GDPR Settings"
+msgstr ""
+
+#: includes/admin/class-wws-admin-menu.php:80
+#: includes/admin/class-wws-admin-menu.php:81
+#: includes/admin/class-wws-admin-menu.php:192
+#: templates/admin/admin-product-query-page.php:2
+msgid "Product Query"
+msgstr ""
+
+#: includes/admin/class-wws-admin-menu.php:88
+#: includes/admin/class-wws-admin-menu.php:89
+msgid "Shortcode Generator"
+msgstr ""
+
+#: includes/admin/class-wws-admin-menu.php:96
+#: includes/admin/class-wws-admin-menu.php:97
+#: templates/admin/admin-link-generator-page.php:2
+msgid "Link Generator"
+msgstr ""
+
+#: includes/admin/class-wws-admin-menu.php:194
+msgid "WooCommerce not installed or maybe no activated."
+msgstr ""
+
+#: includes/admin/class-wws-admin-notification.php:32
+msgid "Settings saved."
+msgstr ""
+
+#: includes/admin/class-wws-admin-notification.php:38
+msgid "Report shared."
+msgstr ""
+
+#: includes/admin/class-wws-admin-notification.php:44
+msgid "Developer settings saved."
+msgstr ""
+
+#: includes/admin/class-wws-admin-notification.php:50
+msgid "GDPR settings saved."
+msgstr ""
+
+#: includes/admin/class-wws-admin-notification.php:69
+#, php-format
+msgid ""
+"Enter your purchase code to get instant support and advance customer "
+"service! %s"
+msgstr ""
+
+#: includes/admin/class-wws-admin-notification.php:70
+msgid "Enter here"
+msgstr ""
+
+#: includes/admin/class-wws-admin-notification.php:87
+msgid "Leave A Review?"
+msgstr ""
+
+#: includes/admin/class-wws-admin-notification.php:91
+#, php-format
+msgid ""
+"We hope you've enjoyed using %s Would you consider leaving us a review on %s"
+msgstr ""
+
+#: includes/admin/class-wws-admin-notification.php:103
+msgid "Sure! I'd love to!"
+msgstr ""
+
+#: includes/admin/class-wws-admin-notification.php:108
+msgid "I've already left a review"
+msgstr ""
+
+#: includes/admin/class-wws-admin-notification.php:112
+msgid "Never show again"
+msgstr ""
+
+#: includes/ajax/ajax-add-multi-account.php:14
+#: includes/ajax/ajax-edit-multi-account.php:20
+msgid "Support Person Contact"
+msgstr ""
+
+#: includes/ajax/ajax-add-multi-account.php:19
+#: includes/ajax/ajax-edit-multi-account.php:25
+msgid ""
+"Enter mobile phone number with the international country code, without \"+\" "
+"character. Example:  911234567890 for (+91) 1234567890"
+msgstr ""
+
+#: includes/ajax/ajax-add-multi-account.php:25
+#: includes/ajax/ajax-edit-multi-account.php:31
+#: templates/admin/admin-product-query-page.php:87
+msgid "Support Person Name"
+msgstr ""
+
+#: includes/ajax/ajax-add-multi-account.php:30
+#: includes/ajax/ajax-edit-multi-account.php:36
+msgid "Enter support person name."
+msgstr ""
+
+#: includes/ajax/ajax-add-multi-account.php:36
+#: includes/ajax/ajax-edit-multi-account.php:42
+#: templates/admin/admin-product-query-page.php:99
+msgid "Support Person Title"
+msgstr ""
+
+#: includes/ajax/ajax-add-multi-account.php:41
+#: includes/ajax/ajax-edit-multi-account.php:47
+msgid "Enter support person title/designation."
+msgstr ""
+
+#: includes/ajax/ajax-add-multi-account.php:48
+#: includes/ajax/ajax-edit-multi-account.php:54
+#: templates/admin/admin-plugin-setting-page.php:242
+#: templates/admin/admin-product-query-page.php:110
+msgid "Support Person Image"
+msgstr ""
+
+#: includes/ajax/ajax-add-multi-account.php:54
+#: includes/ajax/ajax-edit-multi-account.php:60
+#: templates/admin/admin-product-query-page.php:111
+msgid "Add support person image"
+msgstr ""
+
+#: includes/ajax/ajax-add-multi-account.php:60
+#: includes/ajax/ajax-edit-multi-account.php:66
+#: templates/admin/admin-link-generator-page.php:25
+msgid "Support Pre Message"
+msgstr ""
+
+#: includes/ajax/ajax-add-multi-account.php:64
+#: includes/ajax/ajax-edit-multi-account.php:70
+#: templates/admin/admin-plugin-setting-page.php:147
+#, php-format
+msgid "%s to display current page title in chat."
+msgstr ""
+
+#: includes/ajax/ajax-add-multi-account.php:65
+#: includes/ajax/ajax-edit-multi-account.php:71
+#: templates/admin/admin-plugin-setting-page.php:148
+#, php-format
+msgid "%s to display current page URL in chat."
+msgstr ""
+
+#: includes/ajax/ajax-add-multi-account.php:66
+#: includes/ajax/ajax-edit-multi-account.php:72
+#: templates/admin/admin-plugin-setting-page.php:149
+#, php-format
+msgid "%s to break the line into a new line."
+msgstr ""
+
+#: includes/ajax/ajax-add-multi-account.php:74
+#: includes/ajax/ajax-edit-multi-account.php:80
+#: templates/admin/admin-plugin-setting-page.php:440
+msgid "Schedule"
+msgstr ""
+
+#: includes/ajax/ajax-add-multi-account.php:110
+#: includes/ajax/ajax-edit-multi-account.php:123
+msgid "Schedule by days to show contact person availablity. Time format HH:MM"
+msgstr ""
+
+#: includes/ajax/ajax-add-multi-account.php:119
+msgid "Add"
+msgstr ""
+
+#: includes/ajax/ajax-analytics-deep-report.php:35
+msgid "Country"
+msgstr ""
+
+#: includes/ajax/ajax-analytics-deep-report.php:39
+msgid "Region"
+msgstr ""
+
+#: includes/ajax/ajax-analytics-deep-report.php:43
+msgid "City"
+msgstr ""
+
+#: includes/ajax/ajax-analytics-deep-report.php:47
+msgid "ZIP Code"
+msgstr ""
+
+#: includes/ajax/ajax-analytics-deep-report.php:56
+msgid "Timezone"
+msgstr ""
+
+#: includes/ajax/ajax-analytics-deep-report.php:60
+msgid "Internet Service Provider"
+msgstr ""
+
+#: includes/ajax/ajax-analytics-deep-report.php:64
+msgid "Organization Name"
+msgstr ""
+
+#: includes/ajax/ajax-edit-multi-account.php:132
+msgid "Save"
+msgstr ""
+
+#: includes/classes/class-wws-plugin-activation.php:33
+#: templates/admin/admin-plugin-support-page.php:19
+msgid "Plugin Activated"
+msgstr ""
+
+#: includes/classes/class-wws-plugin-activation.php:34
+msgid "Goto Plugin Settings"
+msgstr ""
+
+#: includes/classes/class-wws-plugin-activation.php:37
+msgid "Invalid Purchase Code"
+msgstr ""
+
+#: includes/classes/class-wws-plugin-activation.php:42
+msgid "Server error. Please contact plugin author."
+msgstr ""
+
+#: includes/classes/class-wws-visual-composer.php:29
+msgid "WhatsApp Support Button"
+msgstr ""
+
+#: includes/classes/class-wws-visual-composer.php:32
+msgid "Content"
+msgstr ""
+
+#: includes/classes/class-wws-visual-composer.php:39
+#: templates/admin/admin-shortcode-generator-page.php:46
+msgid "Support Number"
+msgstr ""
+
+#: includes/classes/class-wws-visual-composer.php:41
+msgid "911234567890"
+msgstr ""
+
+#: includes/classes/class-wws-visual-composer.php:42
+msgid ""
+"Enter mobile phone number with the international country code, without '+' "
+"character."
+msgstr ""
+
+#: includes/classes/class-wws-visual-composer.php:48
+#: templates/admin/admin-shortcode-generator-page.php:58
+msgid "Button Text"
+msgstr ""
+
+#: includes/classes/class-wws-visual-composer.php:50
+#: templates/admin/admin-shortcode-generator-page.php:201
+msgid "Contact Us"
+msgstr ""
+
+#: includes/classes/class-wws-visual-composer.php:56
+#: templates/admin/admin-product-query-page.php:41
+msgid "Button Color"
+msgstr ""
+
+#: includes/classes/class-wws-visual-composer.php:64
+#: templates/admin/admin-product-query-page.php:52
+#: templates/admin/admin-shortcode-generator-page.php:82
+msgid "Button Text Color"
+msgstr ""
+
+#: includes/classes/class-wws-visual-composer.php:71
+#: templates/admin/admin-shortcode-generator-page.php:94
+msgid "Button Bold Text"
+msgstr ""
+
+#: includes/classes/class-wws-visual-composer.php:74
+#: includes/classes/class-wws-visual-composer.php:108
+#: includes/classes/class-wws-visual-composer.php:120
+#: includes/classes/class-wws-visual-composer.php:130
+#: templates/admin/admin-plugin-setting-page.php:349
+#: templates/admin/admin-plugin-setting-page.php:372
+#: templates/admin/admin-plugin-setting-page.php:394
+#: templates/admin/admin-shortcode-generator-page.php:99
+#: templates/admin/admin-shortcode-generator-page.php:148
+#: templates/admin/admin-shortcode-generator-page.php:164
+#: templates/admin/admin-shortcode-generator-page.php:178
+msgid "No"
+msgstr ""
+
+#: includes/classes/class-wws-visual-composer.php:75
+#: includes/classes/class-wws-visual-composer.php:109
+#: includes/classes/class-wws-visual-composer.php:119
+#: includes/classes/class-wws-visual-composer.php:129
+#: templates/admin/admin-plugin-setting-page.php:348
+#: templates/admin/admin-plugin-setting-page.php:371
+#: templates/admin/admin-plugin-setting-page.php:393
+#: templates/admin/admin-shortcode-generator-page.php:100
+#: templates/admin/admin-shortcode-generator-page.php:149
+#: templates/admin/admin-shortcode-generator-page.php:165
+#: templates/admin/admin-shortcode-generator-page.php:179
+msgid "Yes"
+msgstr ""
+
+#: includes/classes/class-wws-visual-composer.php:81
+#: templates/admin/admin-shortcode-generator-page.php:110
+msgid "Button Font Style"
+msgstr ""
+
+#: includes/classes/class-wws-visual-composer.php:84
+#: templates/admin/admin-shortcode-generator-page.php:115
+msgid "Theme Default"
+msgstr ""
+
+#: includes/classes/class-wws-visual-composer.php:85
+msgid "Lobster"
+msgstr ""
+
+#: includes/classes/class-wws-visual-composer.php:86
+msgid "Satisfy"
+msgstr ""
+
+#: includes/classes/class-wws-visual-composer.php:87
+msgid "Bree Serif"
+msgstr ""
+
+#: includes/classes/class-wws-visual-composer.php:88
+msgid "Oswald"
+msgstr ""
+
+#: includes/classes/class-wws-visual-composer.php:89
+msgid "Ubuntu"
+msgstr ""
+
+#: includes/classes/class-wws-visual-composer.php:90
+msgid "Dancing Script"
+msgstr ""
+
+#: includes/classes/class-wws-visual-composer.php:97
+#: templates/admin/admin-shortcode-generator-page.php:131
+msgid "Pre Populate Message"
+msgstr ""
+
+#: includes/classes/class-wws-visual-composer.php:99
+msgid "Hello..."
+msgstr ""
+
+#: includes/classes/class-wws-visual-composer.php:100
+#: templates/admin/admin-shortcode-generator-page.php:136
+msgid "This is what you will receive when user sent message first time."
+msgstr ""
+
+#: includes/classes/class-wws-visual-composer.php:105
+#: templates/admin/admin-shortcode-generator-page.php:143
+msgid "Full Width Button"
+msgstr ""
+
+#: includes/classes/class-wws-visual-composer.php:111
+#: templates/admin/admin-shortcode-generator-page.php:152
+msgid "This will expand button to full width."
+msgstr ""
+
+#: includes/classes/class-wws-visual-composer.php:116
+#: templates/admin/admin-plugin-setting-page.php:366
+#: templates/admin/admin-shortcode-generator-page.php:159
+msgid "Display On Mobile"
+msgstr ""
+
+#: includes/classes/class-wws-visual-composer.php:126
+#: templates/admin/admin-plugin-setting-page.php:343
+#: templates/admin/admin-shortcode-generator-page.php:173
+msgid "Display On Desktop"
+msgstr ""
+
+#: templates/admin/admin-activate-plugin-page.php:5
+msgid "Enter your Envato purchase code to activate"
+msgstr ""
+
+#: templates/admin/admin-activate-plugin-page.php:10
+msgid "Enter Purchase Code"
+msgstr ""
+
+#: templates/admin/admin-activate-plugin-page.php:11
+msgid "Activate"
+msgstr ""
+
+#: templates/admin/admin-activate-plugin-page.php:14
+msgid "Where is my purchase code?"
+msgstr ""
+
+#: templates/admin/admin-analytics-page.php:3
+msgid "WeCreativez WhatsApp Support - Analytics"
+msgstr ""
+
+#: templates/admin/admin-analytics-page.php:7
+msgid "Total Clicks Analytics"
+msgstr ""
+
+#: templates/admin/admin-analytics-page.php:13
+msgid "Total Clicks"
+msgstr ""
+
+#: templates/admin/admin-analytics-page.php:19
+msgid "Total Clicks By Mobile"
+msgstr ""
+
+#: templates/admin/admin-analytics-page.php:25
+msgid "Total Clicks By Desktop/ Laptop"
+msgstr ""
+
+#: templates/admin/admin-analytics-page.php:32
+msgid "Complete Analytics"
+msgstr ""
+
+#: templates/admin/admin-analytics-page.php:38
+#: templates/admin/admin-analytics-page.php:50
+msgid "Visitors IP"
+msgstr ""
+
+#: templates/admin/admin-analytics-page.php:39
+#: templates/admin/admin-analytics-page.php:51
+msgid "Message"
+msgstr ""
+
+#: templates/admin/admin-analytics-page.php:40
+#: templates/admin/admin-analytics-page.php:52
+msgid "Referral"
+msgstr ""
+
+#: templates/admin/admin-analytics-page.php:41
+#: templates/admin/admin-analytics-page.php:53
+msgid "Device Type"
+msgstr ""
+
+#: templates/admin/admin-analytics-page.php:42
+#: templates/admin/admin-analytics-page.php:54
+msgid "OS"
+msgstr ""
+
+#: templates/admin/admin-analytics-page.php:43
+#: templates/admin/admin-analytics-page.php:55
+msgid "Browser"
+msgstr ""
+
+#: templates/admin/admin-analytics-page.php:44
+#: templates/admin/admin-analytics-page.php:56
+msgid "Date"
+msgstr ""
+
+#: templates/admin/admin-analytics-page.php:77
+msgid "Click on IP address to know more about the visitors"
+msgstr ""
+
+#: templates/admin/admin-analytics-page.php:79
+msgid "Are you sure?"
+msgstr ""
+
+#: templates/admin/admin-analytics-page.php:79
+msgid "Delete Complete Analytics"
+msgstr ""
+
+#: templates/admin/admin-gdpr-page.php:14
+msgid "Enable GDPR"
+msgstr ""
+
+#: templates/admin/admin-gdpr-page.php:15
+msgid "Enable/ Disable GDPR compliant."
+msgstr ""
+
+#: templates/admin/admin-gdpr-page.php:24
+msgid "GDPR Message"
+msgstr ""
+
+#: templates/admin/admin-gdpr-page.php:28
+#, php-format
+msgid "Use shortcode %s to add privacy page link."
+msgstr ""
+
+#: templates/admin/admin-gdpr-page.php:34
+msgid "Privacy page"
+msgstr ""
+
+#: templates/admin/admin-gdpr-page.php:35
+msgid "Select your privacy page."
+msgstr ""
+
+#: templates/admin/admin-link-generator-page.php:15
+#: templates/admin/admin-plugin-setting-page.php:231
+#: templates/admin/admin-product-query-page.php:75
+msgid "Support Contact Number"
+msgstr ""
+
+#: templates/admin/admin-link-generator-page.php:16
+#: templates/admin/admin-plugin-setting-page.php:232
+#: templates/admin/admin-product-query-page.php:76
+msgid ""
+"Enter mobile phone number with the international country code, without + "
+"character. Example:  911234567890 for (+91) 1234567890"
+msgstr ""
+
+#: templates/admin/admin-link-generator-page.php:26
+msgid "Enter a message that you will receive when someone clicks on the link."
+msgstr ""
+
+#: templates/admin/admin-link-generator-page.php:36
+msgid "Generated Link"
+msgstr ""
+
+#: templates/admin/admin-link-generator-page.php:40
+msgid "Copy and share the link"
+msgstr ""
+
+#. Plugin Name of the plugin/theme
+#: templates/admin/admin-plugin-setting-page.php:4
+msgid "WeCreativez WhatsApp Support"
+msgstr ""
+
+#: templates/admin/admin-plugin-setting-page.php:12
+msgid "Designing"
+msgstr ""
+
+#: templates/admin/admin-plugin-setting-page.php:20
+msgid "Select Layout"
+msgstr ""
+
+#: templates/admin/admin-plugin-setting-page.php:21
+msgid "Select your layout."
+msgstr ""
+
+#: templates/admin/admin-plugin-setting-page.php:61
+msgid "Layout Background Color"
+msgstr ""
+
+#: templates/admin/admin-plugin-setting-page.php:62
+msgid "Set popup layout background color."
+msgstr ""
+
+#: templates/admin/admin-plugin-setting-page.php:73
+msgid "Layout Text Color"
+msgstr ""
+
+#: templates/admin/admin-plugin-setting-page.php:74
+msgid "Set popup layout text color."
+msgstr ""
+
+#: templates/admin/admin-plugin-setting-page.php:84
+msgid "Enable Layout Gradient"
+msgstr ""
+
+#: templates/admin/admin-plugin-setting-page.php:85
+msgid "Enable/ Disable popup background gradient."
+msgstr ""
+
+#: templates/admin/admin-plugin-setting-page.php:98
+msgid "WhatsApp Support Text Settings"
+msgstr ""
+
+#: templates/admin/admin-plugin-setting-page.php:106
+#: templates/admin/admin-plugin-setting-page.php:107
+msgid "About Support"
+msgstr ""
+
+#: templates/admin/admin-plugin-setting-page.php:118
+msgid "Welcome Message"
+msgstr ""
+
+#: templates/admin/admin-plugin-setting-page.php:119
+msgid "Welcome message from Support. Sometime this can be use as pre message."
+msgstr ""
+
+#: templates/admin/admin-plugin-setting-page.php:130
+msgid "Input Placeholder Text"
+msgstr ""
+
+#: templates/admin/admin-plugin-setting-page.php:131
+msgid "Input placeholder"
+msgstr ""
+
+#: templates/admin/admin-plugin-setting-page.php:142
+msgid "Predefined Text"
+msgstr ""
+
+#: templates/admin/admin-plugin-setting-page.php:143
+msgid ""
+"This will automatically append the following options along with user text."
+msgstr ""
+
+#: templates/admin/admin-plugin-setting-page.php:162
+msgid "WhatsApp Support Trigger Button"
+msgstr ""
+
+#: templates/admin/admin-plugin-setting-page.php:170
+msgid "Trigger Button Text"
+msgstr ""
+
+#: templates/admin/admin-plugin-setting-page.php:171
+msgid "If you leave it blank than, trigger button shown as only icon."
+msgstr ""
+
+#: templates/admin/admin-plugin-setting-page.php:181
+msgid "Show Only Icon on Mobile"
+msgstr ""
+
+#: templates/admin/admin-plugin-setting-page.php:182
+msgid ""
+"Enable this option if you what to display an icon instead of text button on "
+"mobile."
+msgstr ""
+
+#: templates/admin/admin-plugin-setting-page.php:198
+msgid "WhatsApp Group Settings"
+msgstr ""
+
+#: templates/admin/admin-plugin-setting-page.php:206
+msgid "Support Group ID"
+msgstr ""
+
+#: templates/admin/admin-plugin-setting-page.php:207
+#: templates/admin/admin-shortcode-generator-page.php:37
+msgid "Enter your WhatsApp group chat ID"
+msgstr ""
+
+#: templates/admin/admin-plugin-setting-page.php:223
+msgid "WhatsApp Single Person Support"
+msgstr ""
+
+#: templates/admin/admin-plugin-setting-page.php:243
+msgid "Add Support person image"
+msgstr ""
+
+#: templates/admin/admin-plugin-setting-page.php:264
+msgid "WhatsApp Multi Account Settings"
+msgstr ""
+
+#: templates/admin/admin-plugin-setting-page.php:279
+msgid "Edit"
+msgstr ""
+
+#: templates/admin/admin-plugin-setting-page.php:279
+msgid "Delete"
+msgstr ""
+
+#: templates/admin/admin-plugin-setting-page.php:291
+#: templates/admin/admin-plugin-setting-page.php:294
+msgid "Add Support Person"
+msgstr ""
+
+#: templates/admin/admin-plugin-setting-page.php:310
+msgid "Basic Settings"
+msgstr ""
+
+#: templates/admin/admin-plugin-setting-page.php:319
+msgid "Scroll Length"
+msgstr ""
+
+#: templates/admin/admin-plugin-setting-page.php:320
+msgid ""
+"Display button when scroll length matched with above value. Leave blank to "
+"display everytime."
+msgstr ""
+
+#: templates/admin/admin-plugin-setting-page.php:330
+msgid "Enable RTL"
+msgstr ""
+
+#: templates/admin/admin-plugin-setting-page.php:331
+msgid ""
+"You can enable RTL ( Right to Left ) if your website has language like "
+"Arabic, Persian and Hebrew."
+msgstr ""
+
+#: templates/admin/admin-plugin-setting-page.php:344
+msgid "Display on desktop/laptop"
+msgstr ""
+
+#: templates/admin/admin-plugin-setting-page.php:352
+#: templates/admin/admin-plugin-setting-page.php:375
+msgid "Top Left"
+msgstr ""
+
+#: templates/admin/admin-plugin-setting-page.php:353
+#: templates/admin/admin-plugin-setting-page.php:376
+msgid "Top Center"
+msgstr ""
+
+#: templates/admin/admin-plugin-setting-page.php:354
+#: templates/admin/admin-plugin-setting-page.php:377
+msgid "Top Right"
+msgstr ""
+
+#: templates/admin/admin-plugin-setting-page.php:355
+#: templates/admin/admin-plugin-setting-page.php:378
+msgid "Bottom Left"
+msgstr ""
+
+#: templates/admin/admin-plugin-setting-page.php:356
+#: templates/admin/admin-plugin-setting-page.php:379
+msgid "Bottom Center"
+msgstr ""
+
+#: templates/admin/admin-plugin-setting-page.php:357
+#: templates/admin/admin-plugin-setting-page.php:380
+msgid "Bottom Right"
+msgstr ""
+
+#: templates/admin/admin-plugin-setting-page.php:367
+msgid "Display on mobile devices"
+msgstr ""
+
+#: templates/admin/admin-plugin-setting-page.php:388
+msgid "Auto Popup"
+msgstr ""
+
+#: templates/admin/admin-plugin-setting-page.php:389
+msgid "Enter the popup auto display time in seconds"
+msgstr ""
+
+#: templates/admin/admin-plugin-setting-page.php:403
+msgid "Filter By Page"
+msgstr ""
+
+#: templates/admin/admin-plugin-setting-page.php:407
+msgid "Everwhere"
+msgstr ""
+
+#: templates/admin/admin-plugin-setting-page.php:410
+msgid "Front Page"
+msgstr ""
+
+#: templates/admin/admin-plugin-setting-page.php:412
+msgid "Include popup on Pages"
+msgstr ""
+
+#: templates/admin/admin-plugin-setting-page.php:421
+msgid "Select pages, where you want to add WhatsApp Support."
+msgstr ""
+
+#: templates/admin/admin-plugin-setting-page.php:423
+msgid "Exclude popup on Pages"
+msgstr ""
+
+#: templates/admin/admin-plugin-setting-page.php:432
+msgid "Select pages, where you not want to add WhatsApp Support."
+msgstr ""
+
+#: templates/admin/admin-plugin-setting-page.php:446
+msgid "Monday"
+msgstr ""
+
+#: templates/admin/admin-plugin-setting-page.php:452
+msgid "Tuesday"
+msgstr ""
+
+#: templates/admin/admin-plugin-setting-page.php:458
+msgid "Wednesday"
+msgstr ""
+
+#: templates/admin/admin-plugin-setting-page.php:464
+msgid "Thursday"
+msgstr ""
+
+#: templates/admin/admin-plugin-setting-page.php:470
+msgid "Friday"
+msgstr ""
+
+#: templates/admin/admin-plugin-setting-page.php:476
+msgid "Saturday"
+msgstr ""
+
+#: templates/admin/admin-plugin-setting-page.php:482
+msgid "Sunday"
+msgstr ""
+
+#: templates/admin/admin-plugin-setting-page.php:488
+msgid "Schedule by days to show WhatsApp Support Popup. Time format HH:MM:SS"
+msgstr ""
+
+#: templates/admin/admin-plugin-setting-page.php:491
+#, php-format
+msgid "Your selected time zone is %s"
+msgstr ""
+
+#: templates/admin/admin-plugin-setting-page.php:501
+msgid "Custom\tCSS"
+msgstr ""
+
+#: templates/admin/admin-plugin-setting-page.php:502
+msgid "Add your custom CSS here"
+msgstr ""
+
+#: templates/admin/admin-plugin-setting-page.php:516
+msgid "Save Changes"
+msgstr ""
+
+#: templates/admin/admin-plugin-support-page.php:3
+msgid "WeCreativez WhatsApp Support - Support"
+msgstr ""
+
+#: templates/admin/admin-plugin-support-page.php:11
+msgid "Plugin Registration"
+msgstr ""
+
+#: templates/admin/admin-plugin-support-page.php:22
+msgid "Plugin Not Activated"
+msgstr ""
+
+#: templates/admin/admin-plugin-support-page.php:49
+msgid "This is the address where we will contact you."
+msgstr ""
+
+#: templates/admin/admin-plugin-support-page.php:96
+msgid "Enable Developer Mode"
+msgstr ""
+
+#: templates/admin/admin-plugin-support-page.php:97
+msgid "Please do not enable until recommended."
+msgstr ""
+
+#: templates/admin/admin-plugin-support-page.php:102
+msgid "Enable"
+msgstr ""
+
+#: templates/admin/admin-plugin-support-page.php:120
+msgid "Enable Debugging"
+msgstr ""
+
+#: templates/admin/admin-plugin-support-page.php:129
+msgid "HTML in"
+msgstr ""
+
+#: templates/admin/admin-plugin-support-page.php:141
+msgid "Fix Widget Shortcode"
+msgstr ""
+
+#: templates/admin/admin-plugin-support-page.php:150
+msgid "Disable Auto Update"
+msgstr ""
+
+#: templates/admin/admin-product-query-page.php:14
+msgid "Product Support Button"
+msgstr ""
+
+#: templates/admin/admin-product-query-page.php:15
+msgid ""
+"Enable / Disable product support button on WooCommerce single product page."
+msgstr ""
+
+#: templates/admin/admin-product-query-page.php:26
+msgid "Button Location"
+msgstr ""
+
+#: templates/admin/admin-product-query-page.php:27
+msgid "Display product share button on mobile."
+msgstr ""
+
+#: templates/admin/admin-product-query-page.php:31
+msgid "After Short Description"
+msgstr ""
+
+#: templates/admin/admin-product-query-page.php:32
+msgid "After Add to Cart Button"
+msgstr ""
+
+#: templates/admin/admin-product-query-page.php:42
+msgid "Change button background color."
+msgstr ""
+
+#: templates/admin/admin-product-query-page.php:53
+msgid "Change button text color."
+msgstr ""
+
+#: templates/admin/admin-product-query-page.php:63
+msgid "Button Label"
+msgstr ""
+
+#: templates/admin/admin-product-query-page.php:64
+msgid "Enter button label."
+msgstr ""
+
+#: templates/admin/admin-product-query-page.php:88
+msgid "Enter the name of support person."
+msgstr ""
+
+#: templates/admin/admin-product-query-page.php:100
+msgid "Enter the title / designation of support person."
+msgstr ""
+
+#: templates/admin/admin-product-query-page.php:122
+msgid "Support Message"
+msgstr ""
+
+#: templates/admin/admin-product-query-page.php:123
+msgid "Enter the pre populate support message here."
+msgstr ""
+
+#: templates/admin/admin-product-query-page.php:127
+#, php-format
+msgid "Use %s shortcode for product title and %s for product URL"
+msgstr ""
+
+#: templates/admin/admin-product-query-page.php:143
+msgid "Exclude Product Query Button"
+msgstr ""
+
+#: templates/admin/admin-product-query-page.php:144
+msgid "You can exclude or turn off WhatsApp product query button by products."
+msgstr ""
+
+#: templates/admin/admin-product-query-page.php:147
+msgid "Exclude by products"
+msgstr ""
+
+#: templates/admin/admin-product-query-page.php:162
+msgid ""
+"You can exclude or turn off WhatsApp product query button by categories."
+msgstr ""
+
+#: templates/admin/admin-product-query-page.php:165
+msgid "Exclude by categories"
+msgstr ""
+
+#: templates/admin/admin-product-query-page.php:182
+msgid "Save Product Support"
+msgstr ""
+
+#: templates/admin/admin-shortcode-generator-page.php:3
+msgid "WeCreativez WhatsApp Support - Shortcode Generator"
+msgstr ""
+
+#: templates/admin/admin-shortcode-generator-page.php:17
+msgid "Button Type"
+msgstr ""
+
+#: templates/admin/admin-shortcode-generator-page.php:22
+msgid "Support Button"
+msgstr ""
+
+#: templates/admin/admin-shortcode-generator-page.php:23
+msgid "Group Invitation Button"
+msgstr ""
+
+#: templates/admin/admin-shortcode-generator-page.php:32
+msgid "Group Chat ID"
+msgstr ""
+
+#: templates/admin/admin-shortcode-generator-page.php:51
+msgid ""
+"Enter mobile phone number with the international country code, without \"+\" "
+"character"
+msgstr ""
+
+#: templates/admin/admin-shortcode-generator-page.php:70
+msgid "Button Background Color"
+msgstr ""
+
+#: templates/admin/admin-shortcode-generator-page.php:213
+msgid "Shortcode"
+msgstr ""
+
+#: templates/admin/admin-shortcode-generator-page.php:218
+msgid "Copy shortcode and paste wherever you want. Have fun! :)"
+msgstr ""
+
+#: templates/admin/admin-shortcode-generator-page.php:230
+msgid "HTML Code"
+msgstr ""
+
+#: templates/admin/admin-shortcode-generator-page.php:235
+msgid "Copy HTML and paste wherever you want. Have fun! :)"
+msgstr ""
+
+#: templates/public/template-6.php:86
+msgid "Available"
+msgstr ""
+
+#: templates/public/template-6.php:106
+msgid "Away"
+msgstr ""
+
+#. Plugin URI of the plugin/theme
+msgid "http://wecreativez.com/"
+msgstr ""
+
+#. Description of the plugin/theme
+msgid ""
+"WordPress WhatsApp Support plugin provides better and easy way to "
+"communicate visitors and customers directly to your support person."
+msgstr ""
+
+#. Author of the plugin/theme
+msgid "Sonu Kaushal"
+msgstr ""
+
+#. Author URI of the plugin/theme
+msgid "http://sonukaushal.com/"
+msgstr ""
